@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="net.madvirus.spring4.chap01.BuildRunner"/>
+<fullyQualifiedTypeName name="net.madvirus.spring4.chap01.MavenBuildRunner"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+<fullyQualifiedTypeName name="net.madvirus.spring4.chap01.Project"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+<fullyQualifiedTypeName name="net.madvirus.spring4.chap02.PasswordChangeService"/>
+<fullyQualifiedTypeName name="net.madvirus.spring4.chap02.UserNotFoundException"/>
+<fullyQualifiedTypeName name="net.madvirus.spring4.chap02.AuthenticationService"/>
+<fullyQualifiedTypeName name="net.madvirus.spring4.chap02.AuthException"/>
+</qualifiedTypeNameHistroy>
